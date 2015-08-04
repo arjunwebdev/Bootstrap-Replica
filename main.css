@@ -1,0 +1,24 @@
+.navbar-default {
+background-color: white;
+border: 0;
+}
+
+.Box {
+  background-color: #563d7c;
+  color: white;
+  font-size: 50px;
+}
+.Bootstrap-logo{
+border-image-width: 10px;
+}
+.row-text {
+  font-size: 30px;
+}
+.download-bs{
+  background-color: #563d7c;
+  font-size: 30px;
+}
+.version-row{
+  font-size: 15px;
+  color: grey;
+}
