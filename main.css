@@ -1,6 +1,7 @@
 .navbar-default {
-background-color: white;
-border: 0;
+  background-color: white;
+  border: 0;
+  margin: 0;
 }
 
 .Box {
@@ -10,11 +11,9 @@ border: 0;
   text-align: center;
 }
 .Bootstrap-logo{
-border-image-width: 10px;
 }
 .text-row {
   font-size: 30px;
-  text-align: center;
 }
 .download-bs{
   background-color: #563d7c;
@@ -22,5 +21,9 @@ border-image-width: 10px;
 }
 .version-row{
   font-size: 15px;
-  color: grey;
+  color: gray;
+}
+.carbon{
+  font-size: 15px;
+  box-decoration-break: 10px;
 }
