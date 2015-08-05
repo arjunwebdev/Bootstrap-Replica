@@ -10,8 +10,17 @@
   font-size: 50px;
   text-align: center;
 }
-.Bootstrap-logo{
+
+.bootstrap-logo {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-size: 100px;
+  border: 1px solid;
+  padding: 5px 45px;
+  border-radius: 20px;
+  display: inline-block;
 }
+
 .text-row {
   font-size: 30px;
 }
