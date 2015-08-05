@@ -7,12 +7,14 @@ border: 0;
   background-color: #563d7c;
   color: white;
   font-size: 50px;
+  text-align: center;
 }
 .Bootstrap-logo{
 border-image-width: 10px;
 }
-.row-text {
+.text-row {
   font-size: 30px;
+  text-align: center;
 }
 .download-bs{
   background-color: #563d7c;
