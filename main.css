@@ -1,6 +1,7 @@
 .navbar-default {
-background-color: white;
-border: 0;
+  background-color: white;
+  border: 0;
+  margin: 0;
 }
 
 .Box {
@@ -9,12 +10,25 @@ border: 0;
   font-size: 50px;
   text-align: center;
 }
-.Bootstrap-logo{
-border-image-width: 10px;
+
+.bootstrap-logo {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-size: 100px;
+  border: 1px solid;
+  padding: 5px 45px;
+  border-radius: 20px;
+  display: inline-block;
 }
+.btn-transparent {
+  background: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px 30px;
+}
+
 .text-row {
   font-size: 30px;
-  text-align: center;
 }
 .download-bs{
   background-color: #563d7c;
@@ -22,5 +36,49 @@ border-image-width: 10px;
 }
 .version-row{
   font-size: 15px;
-  color: grey;
+  color: gray;
+}
+.carbon{
+  font-size: 13px;
+    border: 1px solid;
+    padding: 21px 16px;
+    width: 364px;
+    border-radius: 5px;
+    border-color: gray;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.documents {
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.title{
+  font-size: 40px;
+}
+.para{
+  font-size: 21px;
+  margin-bottom: 20px;
+}
+.half-line {
+  width: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.comp{
+  width: 375px;
+}
+.dev {
+  width: 375px;
+}
+.btn-outline{
+  font-color: #563d7c;
+  border-color: #563d7c;
+  margin-bottom: 100px;
+}
+.full-line{
+  margin-bottom: 100px;
+}
+.built {
+  text-align: center;
 }
